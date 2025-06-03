@@ -1,0 +1,4 @@
+__pycache__/
+MNIST dataset/
+classify_test.py
+test.png
